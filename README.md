@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojtěch David</h1>
-<h3 align="center">I am Student from Střední průmyslová škola Mladá Boleslav.</h3>
+<h3 align="center">I am student from Střední průmyslová škola Mladá Boleslav.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **HTML5 and JavaScript**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen](https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen">**github.com/VojtaKdo**</a>
-
-- 📫 How to reach me **Atjov05@seznam.cz**
 
 - ⚡ Fun fact **I think I am smart**
 
