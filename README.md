@@ -18,4 +18,4 @@
 <img src="https://c.tenor.com/CDFUTmfj3AUAAAAd/skeleton-roasting-jelly-bean.gif" align="center" style="width: 100%" />
 </div>    
 
-<a><img src="https://i.imgflip.com/6wnmpx.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<div align="left"><img src="https://i.imgflip.com/6wnmpx.jpg" alt="netbeans > vscode.jpg"/></div>
