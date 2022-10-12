@@ -14,4 +14,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
-  
+<div align="center">
+<img src="https://c.tenor.com/CDFUTmfj3AUAAAAd/skeleton-roasting-jelly-bean.gif" align="center" style="width: 100%" />
+</div>    
