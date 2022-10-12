@@ -14,6 +14,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
-<div align="center">
+<div align="left">
 <img src="https://c.tenor.com/CDFUTmfj3AUAAAAd/skeleton-roasting-jelly-bean.gif" align="center" style="width: 100%" />
 </div>    
+
+<a href="https://imgflip.com/i/6wnmpx"><img src="https://i.imgflip.com/6wnmpx.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
