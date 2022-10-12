@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML5 and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen](https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen](https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen">github.com/VojtaKdo</a>
 
 - 📫 How to reach me **Atjov05@seznam.cz**
 
