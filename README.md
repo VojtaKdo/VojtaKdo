@@ -14,7 +14,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
-
-<img src="https://media.tenor.com/cZx0VLK4_BYAAAAC/did-i-ask-skeleton-roasting.gif" align="center" style="width: 100%" />
-
   
