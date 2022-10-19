@@ -18,7 +18,7 @@
 <img src="https://c.tenor.com/CDFUTmfj3AUAAAAd/skeleton-roasting-jelly-bean.gif" align="center" style="width: 100%" />
 </div>    
 
-<a href="https://imgflip.com/i/6xjh9r"><img src="https://i.imgflip.com/6xjh9r.jpg"/></a><div>
+<div><img src="https://i.imgflip.com/6xjh9r.jpg" /></div>
 
 <div align="left">
 <img src="https://media.tenor.com/TZS6fvPcrl0AAAAd/senator-armstrong-armstrong.gif" align="center" style="width: 100%" />
