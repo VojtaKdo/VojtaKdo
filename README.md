@@ -19,3 +19,8 @@
 </div>    
 
 <div align="left"><img src="https://i.imgflip.com/6wnmpx.jpg" alt="netbeans > vscode.jpg"/></div>
+
+<div align="left">
+<img src="[https://c.tenor.com/CDFUTmfj3AUAAAAd/skeleton-roasting-jelly-bean.gif](https://media.tenor.com/TZS6fvPcrl0AAAAd/senator-armstrong-armstrong.gif)" align="center" style="width: 100%" />
+</div>    
+
