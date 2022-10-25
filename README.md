@@ -21,6 +21,6 @@
 <div><img src="https://i.imgflip.com/6xjh9r.jpg" /></div>
 
 <div align="left">
-<img src="https://tenor.com/view/senator-armstrong-armstrong-metal-gear-rising-mgr-speech-bubble-gif-25397532" align="center" style="width: 100%" />
-</div>
+<img src="https://media.tenor.com/TZS6fvPcrl0AAAAd/senator-armstrong-armstrong.gif" align="center" style="width: 100%" />
+</div>  
 
