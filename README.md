@@ -20,5 +20,7 @@
 
 <div><img src="https://i.imgflip.com/6xjh9r.jpg" /></div>
 
-<div class="tenor-gif-embed" data-postid="25397532" data-share-method="host" data-aspect-ratio="1.06312" data-width="100%"><a href="https://tenor.com/view/senator-armstrong-armstrong-metal-gear-rising-mgr-speech-bubble-gif-25397532"></a></div> 
+<div align="left">
+<img src="https://tenor.com/view/senator-armstrong-armstrong-metal-gear-rising-mgr-speech-bubble-gif-25397532" align="center" style="width: 100%" />
+</div>
 
