@@ -20,7 +20,9 @@
 
 <div><img src="https://i.imgflip.com/6xjh9r.jpg" /></div>
 
-<div align="left">
-<img src="https://media.tenor.com/TZS6fvPcrl0AAAAd/senator-armstrong-armstrong.gif" align="center" style="width: 100%" />
-</div>  
+
+![senator-armstrong-armstrong](https://user-images.githubusercontent.com/115611828/202300659-72aea3c1-1110-40cc-a2d0-5eb0f5d4d123.gif)
+
+
+
 
