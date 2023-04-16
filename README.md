@@ -21,7 +21,7 @@
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg"/></div>
 
 
-(https://user-images.githubusercontent.com/115611828/202300659-72aea3c1-1110-40cc-a2d0-5eb0f5d4d123.gif)
+<p align="center">![senator-armstrong-armstrong](https://user-images.githubusercontent.com/115611828/202300659-72aea3c1-1110-40cc-a2d0-5eb0f5d4d123.gif)</p>
 
 
 
