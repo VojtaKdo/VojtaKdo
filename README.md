@@ -19,10 +19,9 @@
   <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097180497202917476/7icqrf.gif" style="width: 100%"/>
  </div>
 
-<div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg"/></div>
+<div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
 
-
-<div align="center>
+<div display="flex" align="center">
   <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097184813691195514/7icsij.gif" style="width: 100%"/>
  </div>
 
