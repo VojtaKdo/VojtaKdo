@@ -15,11 +15,11 @@
 <p style="align: center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
 <div>
-<img src="https://cdn.discordapp.com/attachments/987268694344339467/1064625099703078963/77olhl.gif" style="width: 100%"  style="float: left"/>
+<img src="https://cdn.discordapp.com/attachments/987268694344339467/1064625099703078963/77olhl.gif" style="width: 100%"  float: left/>
 </div>
 
-<div align="right">
-  <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097180497202917476/7icqrf.gif" style="width: 100%"  style="float: right"/>
+<div>
+  <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097180497202917476/7icqrf.gif" style="width: 100%"  float: right/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg"/></div>
