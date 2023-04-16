@@ -14,7 +14,7 @@
 
 <p style="align: center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
-<div display="flex">
+<div display="flex" justify-content:"center">
   <img src="https://cdn.discordapp.com/attachments/987268694344339467/1064625099703078963/77olhl.gif" style="width: 100%"/>
   <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097180497202917476/7icqrf.gif" style="width: 100%"/>
  </div>
