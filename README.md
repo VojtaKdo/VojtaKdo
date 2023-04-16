@@ -23,7 +23,7 @@
 
 
 <div align="center>
-  <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097184813691195514/7icsij.gif"/>
+  <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097184813691195514/7icsij.gif" style="width: 100%"/>
  </div>
 
 
