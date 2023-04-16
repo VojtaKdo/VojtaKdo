@@ -2,6 +2,7 @@
 <h3 align="center">I am Student from Střední průmyslová škola Mladá Boleslav.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
+![giphy](https://user-images.githubusercontent.com/115611828/232326175-214242b1-5425-4877-997b-8fd560b008a3.gif)
 
 <p align="center">- 🌱 I’m currently learning **HTML5 and JavaScript**</p>
 
@@ -23,7 +24,7 @@
 
 <div display="flex" align="center">
   <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097184813691195514/7icsij.gif" style="width: 100%"/>
- </div>
+</div>
 
 
 
