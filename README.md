@@ -19,7 +19,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
 <div display="flex" align="center">
-  <img src="https://cdn.discordapp.com/attachments/987268694344339467/1064625099703078963/77olhl.gif" style="width: 100%"/>
+  <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&" style="width: 100%"/>
   <img src="https://cdn.discordapp.com/attachments/839869467387101225/1097180497202917476/7icqrf.gif" style="width: 100%"/>
  </div>
 
