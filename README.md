@@ -20,7 +20,7 @@
 
 <div display="flex" align="center">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&" style="width: 100%"/>
-  <img src="https://cdn.discordapp.com/attachments/839869467387101225/1160291066365362186/81sqxm.gif?ex=65342043&is=6521ab43&hm=4ef80984138fe8b0eb9104d80bd276d8d71897492a2270b10644418ba82ab5fd&" style="width: 100%"/>
+  <img src="https://tenor.com/view/dj-khaled-dj-khaled-pinegroove-pinegrove-gif-17570812900379369308" style="width: 100%"/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
