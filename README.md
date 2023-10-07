@@ -20,7 +20,7 @@
 
 <div display="flex" align="center">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&" style="width: 100%"/>
-  <img src="https://media.discordapp.net/attachments/839869467387101225/1160289405718769836/81sq6p.gif?ex=65341eb7&is=6521a9b7&hm=f3ab3e859cd361ea73ff16088c723285bb636d134113c7b0b1d45444df209cb1&" style="width: 100%"/>
+  <img src="https://imgflip.com/gif/81sq6p" style="width: 100%"/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
