@@ -20,7 +20,7 @@
 
 <div display="flex" align="center">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&" style="width: 100%"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/81vack.gif" style="width: 100%"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/dj-khaled.gif" style="width: 100%"/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
