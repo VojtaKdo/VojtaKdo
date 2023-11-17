@@ -18,7 +18,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo" /></p>
 
-<div display="flex" align="center" height="800px">
+<div display="flex" align="center" width="200px">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/dj-khaled.gif"/>
  </div>
