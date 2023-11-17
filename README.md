@@ -4,7 +4,7 @@
 <div display="flex">
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="left" />
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="right"/>
-&nbsp
+<p>&nbsp&nbsp&nbsp&nbsp</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
 <p align="center">- 🌱 I’m currently learning <b>TypeScript with React and C# in Unity</b></p>
 
