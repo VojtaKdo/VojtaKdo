@@ -4,8 +4,9 @@
 <div display="flex">
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="left" />
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="right"/>
+&nbsp
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
-<p align="center">- 🌱 I’m currently learning <b>TypeScript and C# in Unity</b></p>
+<p align="center">- 🌱 I’m currently learning <b>TypeScript with React and C# in Unity</b></p>
 
 <p align="center">- 👨‍💻 All of my projects are available at <a href="https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen](https://github.com/VojtaKdo/VojtaKdo/projects?query=is%3Aopen"><b>github.com/VojtaKdo</b></a></p>
 
