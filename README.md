@@ -2,6 +2,7 @@
 <h3 align="center">I am Student from Střední průmyslová škola Mladá Boleslav.</h3>
 
 <div display="flex">
+  <br>
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="left" />
   <br>
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="right"/>
