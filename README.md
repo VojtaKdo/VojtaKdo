@@ -2,7 +2,7 @@
 <h3 align="center">I am Student from Střední průmyslová škola Mladá Boleslav.</h3>
 
 <div display="flex">
-<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="left" padding="10px"/>
+<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="left" />
 <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/my-honest-reaction-my.gif" width="260px" align="right"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
 <p align="center">- 🌱 I’m currently learning <b>TypeScript and C# in Unity</b></p>
