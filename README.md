@@ -17,7 +17,7 @@
 <div display="flex" align="center">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/929d4af9-01d6-432b-a98a-ae3c21fa4c9d" width="490px"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/d6d4112a-fdd2-4ca7-b632-eec8e8529012" width="420px"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/d6d4112a-fdd2-4ca7-b632-eec8e8529012" width="430px"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/007734dc-e82a-401a-89d3-d653b1d3f4e3" width="360px"/>
  </div>
 
