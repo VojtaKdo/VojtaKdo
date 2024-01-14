@@ -19,6 +19,7 @@
   <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/929d4af9-01d6-432b-a98a-ae3c21fa4c9d" width="460px"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/d6d4112a-fdd2-4ca7-b632-eec8e8529012" width="435px"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/007734dc-e82a-401a-89d3-d653b1d3f4e3" width="360px"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/22a1dee0-3d2a-4e36-8c12-db76ae48af9d" width="500px"/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
