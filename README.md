@@ -16,7 +16,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo"/>
 <div display="flex" align="center">
   <img src="https://media.discordapp.net/attachments/1003766772194881587/1159156044170268703/81f868.gif?ex=651edbb1&is=651d8a31&hm=e63b8e041f96f39ff6869d763bd607ec1591d00166b0cbc12ec66486ae3d941a&"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/929d4af9-01d6-432b-a98a-ae3c21fa4c9d" width="238px"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/assets/115611828/929d4af9-01d6-432b-a98a-ae3c21fa4c9d" width="500px"/>
  </div>
 
 <div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
