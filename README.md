@@ -2,8 +2,8 @@
 <h3 align="center">I am Student from Střední průmyslová škola Mladá Boleslav.</h3>
 
 <div display="flex">
-<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="20%" align="left" />
-<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="20%" align="right"/>
+<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="30%" align="left" />
+<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="30%" align="right"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
 <p align="center">- 🌱 I’m currently learning <b>TypeScript with React and C# in Unity</b></p>
 
@@ -15,10 +15,10 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo"/>
 </div>
 
-<div display="flex" align="center">
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" height="360px"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/3dgifmaker69630.gif" height="360px"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" height="360px"/>
+<div display="flex" align="center" width="100%">
+  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" width="30%"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/3dgifmaker69630.gif" width="30%"/>
+  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" width="30%"/>
   <p><b>Já prostě vyhraju!</b></p>
  </div>
 
