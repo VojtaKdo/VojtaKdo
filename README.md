@@ -18,9 +18,9 @@
   <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" height="360px"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/3dgifmaker69630.gif" height="360px"/>
   <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" height="360px"/>
+  <p><b>Já prostě vyhraju!</b></p>
  </div>
 
-<div align="center"><img src="https://i.imgflip.com/6xjh9r.jpg" width="360px"/></div>
 
 
 
