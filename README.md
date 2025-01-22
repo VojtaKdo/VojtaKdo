@@ -15,13 +15,6 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vojtakdo&" alt="vojtakdo"/>
 </div>
 
-<div display="flex" align="center" width="100%">
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" width="30%"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/3dgifmaker69630.gif" width="30%"/>
-  <img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/nah%20id%20win.gif" width="30%"/>
-  <p><b>Já prostě vyhraju!</b></p>
- </div>
-
 
 
 
