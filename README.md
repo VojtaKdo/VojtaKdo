@@ -2,8 +2,8 @@
 <h3 align="center">I am Student at University of Pardubice.</h3>
 
 <div display="flex">
-<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="30%" align="left" />
-<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/8cnrus.gif" width="30%" align="right"/>
+<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/ms-icon-310x310.png" width="30%" align="left" />
+<img src="https://github.com/VojtaKdo/VojtaKdo/blob/main/ms-icon-310x310.png" width="30%" align="right"/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vojtakdo&label=Profile%20views&color=0e75b6&style=flat" alt="vojtakdo" /> </p>
 <p align="center">- 🌱 I’m currently learning <b>Java, JavaFX and C# in Unity</b></p>
 
