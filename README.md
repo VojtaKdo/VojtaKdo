@@ -34,7 +34,7 @@
 <div align="center">
   <p>🏫 I've graduated from IT at <a href="https://www.spsmb.cz/"><b>SPSMB</b></a></p>
   
-  👨‍💻 <b>I'm currently:</b>
+  <p>👨‍💻 <b>I'm currently:</b></p>
   <table align="center"><tr><td style="text-align: left;">
     <ul>
       <li>Studying</li>
